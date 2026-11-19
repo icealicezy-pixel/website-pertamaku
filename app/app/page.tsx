@@ -653,7 +653,7 @@ export default function Home() {
 
             <div className="mt-7">
               <a
-                href={LINK_FORM_PERTAMA}
+                href={https://bit.ly/betterlife_apply}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full py-4 rounded-xl bg-[#232323] text-white font-[family-name:var(--font-poppins)] font-semibold text-sm hover:bg-black transition shadow-sm"
