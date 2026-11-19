@@ -195,6 +195,7 @@ const generalRequirements = [
   "Mandiri & deadline-driven.",
   "Sensitif & etis terhadap isu mental health.",
   "Long-term thinking (bukan hit & run).",
+  "Berdomisili di wilayah Bali."
 ];
 
 const specificQualifications = [
