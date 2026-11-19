@@ -22,8 +22,7 @@ import {
   Award,
 } from "lucide-react";
 
-const LINK_FORM_PERTAMA =
-  "https://docs.google.com/forms/d/1S0H4iJXkyhvNRjYJV0nKv6eTRM28UVU2iGn0-RqU6aM/viewform";
+const LINK_FORM_PERTAMA = "https://bit.ly/betterlife_apply";
 
 const divisions = [
   {
@@ -653,7 +652,7 @@ export default function Home() {
 
             <div className="mt-7">
               <a
-                href={https://bit.ly/betterlife_apply}
+                href={LINK_FORM_PERTAMA}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full py-4 rounded-xl bg-[#232323] text-white font-[family-name:var(--font-poppins)] font-semibold text-sm hover:bg-black transition shadow-sm"
