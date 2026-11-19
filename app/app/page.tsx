@@ -279,7 +279,7 @@ export default function Home() {
           {/* Brand Logo Resmi Utama */}
           <div className="my-10 flex flex-col items-center justify-center text-center">
             <img
-              src="/logo.png"
+              src="/logo-footer.png"
               alt="BetterLife Logo"
               className="w-64 sm:w-72 h-auto object-contain"
             />
