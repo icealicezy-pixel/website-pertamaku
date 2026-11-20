@@ -201,7 +201,7 @@ const generalRequirements = [
 const specificQualifications = [
   "Berusia maksimal 25 tahun.",
   "Bersedia bekerja full-time (sistem kerja fleksibel / online full).",
-  "Tech-savvy, komunikatif, dan memiliki kepedulian tinggi terhadap isu mental health serta produktivitas.",
+  "Tech-savvy, komunikatif, dan memiliki kepedulian tinggi terhadap isu mental health serta produktif.",
 ];
 
 const categoryCriteria = [
